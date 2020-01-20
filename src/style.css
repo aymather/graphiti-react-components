@@ -615,4 +615,7 @@
 }
 
 /* End Animations */
+.loader-active {
+  display: block;
+}
 /*# sourceMappingURL=style.css.map */
