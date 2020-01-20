@@ -1,0 +1,9 @@
+{
+  "short_name": "Graphiti Components",
+  "name": "Graphiti Component Stage",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
