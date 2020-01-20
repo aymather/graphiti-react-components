@@ -4,6 +4,7 @@ import * as Sidebar from 'src/components/sidebar';
 import * as Tabs from 'src/components/tabs';
 import * as Wrapper from 'src/components/wrapper';
 import * as Form from 'src/components/form';
+import Loading from 'src/components/loading';
 
 export {
     Body,
@@ -11,5 +12,6 @@ export {
     Sidebar,
     Tabs,
     Wrapper,
-    Form
+    Form,
+    Loading
 }
